@@ -1,4 +1,4 @@
-# numi-cli
+# Numi app
 
 This repo contains public release for the `numi-cli` tool.
 
